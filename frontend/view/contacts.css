@@ -1,0 +1,26 @@
+.telephone-number {
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+}
+
+.telephone-number:hover {
+  color: blue;
+}
+
+.email-address {
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+}
+
+.email-address:hover {
+  color: blue;
+}
+/*# sourceMappingURL=contacts.css.map */

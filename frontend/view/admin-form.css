@@ -1,0 +1,27 @@
+#admin-login-input, #admin-password-input {
+  border-color: rgba(0, 0, 0, 0.15);
+  width: 700px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.button-submit {
+  background-color: #FF6565 !important;
+  width: 250px;
+  height: 50px;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+}
+
+.button-submit:hover {
+  background-color: #c25151 !important;
+}
+
+.button-submit:active {
+  background-color: #c25151 !important;
+}
+/*# sourceMappingURL=admin-form.css.map */

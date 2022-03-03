@@ -1,0 +1,28 @@
+$quit-button-font-size: 30px
+$quit-button-font-weight: bold
+$quit-button-text-decoration: none
+$quit-button-text-color: black
+$quit-button-text-color-hover: blue
+$quit-button-transition: 0.25s
+$quit-button-cursor: pointer
+$quit-button-img-size: 35px
+$quit-button-label-vertical-align: -8px
+
+.admin-panel__quit-button__label
+  font-size: $quit-button-font-size
+  font-weight: $quit-button-font-weight
+  text-decoration: $quit-button-text-decoration
+  color: $quit-button-text-color
+  vertical-align: $quit-button-label-vertical-align
+  transition: $quit-button-transition
+
+.admin-panel__quit-button
+  text-decoration: $quit-button-text-decoration
+
+.admin-panel__quit-button > img
+  width: $quit-button-img-size
+  height: $quit-button-img-size
+
+.admin-panel__quit-button:hover > .admin-panel__quit-button__label
+  color: $quit-button-text-color-hover
+  cursor: $quit-button-cursor

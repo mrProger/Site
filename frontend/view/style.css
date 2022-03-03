@@ -1,0 +1,214 @@
+.bg-dark {
+  background-color: #FF6565 !important;
+}
+
+.nav-link {
+  color: #FFFFFF !important;
+  margin-rigth: 40px;
+  margin-left: 40px;
+  font-size: 20px;
+  font-weight: bold !important;
+}
+
+.nav-link:hover {
+  color: #0068c9 !important;
+}
+
+.active {
+  color: #0068c9 !important;
+}
+
+.btn-create-order {
+  background-color: #FF2828 !important;
+  border-style: none;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+}
+
+.btn-create-order:active {
+  background-color: #FF2828 !important;
+}
+
+.btn-create-order:hover {
+  background-color: #A31818 !important;
+}
+
+.header__logo {
+  width: 325px !important;
+  height: 88px !important;
+}
+
+.header__text {
+  width: 850px;
+}
+
+.header__text > h3 {
+  margin-top: 1.5%;
+}
+
+.header__text > p {
+  margin-top: -2.4%;
+}
+
+.header__text__line {
+  font-size: 16px;
+}
+
+.header {
+  margin-top: 4%;
+  margin-bottom: -1%;
+}
+
+.content__background {
+  background-color: #FFE4E4;
+}
+
+.content li, p {
+  font-size: 20px;
+}
+
+.slider {
+  margin-bottom: 50px;
+}
+
+.slider__img {
+  width: 500px;
+  height: 400px;
+}
+
+.slider__arrow-to-left, .slider__arrow-to-right {
+  cursor: pointer;
+}
+
+.slider__arrow-to-left {
+  margin-right: 30px;
+}
+
+.slider__arrow-to-right {
+  margin-left: 30px;
+}
+
+.footer {
+  background-color: #FF6565;
+  color: #FFFFFF;
+}
+
+#admin-login-input, #admin-password-input {
+  border-color: rgba(0, 0, 0, 0.15);
+  width: 700px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.button-submit {
+  background-color: #FF6565 !important;
+  width: 250px;
+  height: 50px;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+}
+
+.button-submit:hover {
+  background-color: #c25151 !important;
+}
+
+.button-submit:active {
+  background-color: #c25151 !important;
+}
+
+.admin-panel__quit-button__label {
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+  vertical-align: -8px;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+}
+
+.admin-panel__quit-button {
+  text-decoration: none;
+}
+
+.admin-panel__quit-button > img {
+  width: 35px;
+  height: 35px;
+}
+
+.admin-panel__quit-button:hover > .admin-panel__quit-button__label {
+  color: blue;
+  cursor: pointer;
+}
+
+.card {
+  display: inline-block !important;
+  width: 19rem !important;
+  height: 220px !important;
+}
+
+.card-img-top {
+  width: 100px;
+  height: 100px;
+}
+
+.btn-service-more {
+  background-color: #FF2828 !important;
+  border-style: none;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+}
+
+.btn-service-more:active {
+  background-color: #FF2828 !important;
+}
+
+.btn-service-more:hover {
+  background-color: #A31818 !important;
+}
+
+.telephone-number {
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+}
+
+.telephone-number:hover {
+  color: blue;
+}
+
+.email-address {
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+}
+
+.email-address:hover {
+  color: blue;
+}
+
+.paid-repair-card {
+  background-color: transparent;
+  border-style: none;
+  width: 21rem !important;
+  height: 400px !important;
+}
+
+.service-type-label, .name-label, .telephone-number-label, .email-label {
+  font-size: 20px;
+}
+
+.service-type, .name-input, .telephone-number-input, .email-input {
+  font-size: 20px;
+  width: 500px;
+}
+/*# sourceMappingURL=style.css.map */

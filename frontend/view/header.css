@@ -1,0 +1,26 @@
+.header__logo {
+  width: 325px !important;
+  height: 88px !important;
+}
+
+.header__text {
+  width: 850px;
+}
+
+.header__text > h3 {
+  margin-top: 1.5%;
+}
+
+.header__text > p {
+  margin-top: -2.4%;
+}
+
+.header__text__line {
+  font-size: 16px;
+}
+
+.header {
+  margin-top: 4%;
+  margin-bottom: -1%;
+}
+/*# sourceMappingURL=header.css.map */

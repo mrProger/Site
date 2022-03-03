@@ -1,0 +1,21 @@
+.slider {
+  margin-bottom: 50px;
+}
+
+.slider__img {
+  width: 500px;
+  height: 400px;
+}
+
+.slider__arrow-to-left, .slider__arrow-to-right {
+  cursor: pointer;
+}
+
+.slider__arrow-to-left {
+  margin-right: 30px;
+}
+
+.slider__arrow-to-right {
+  margin-left: 30px;
+}
+/*# sourceMappingURL=img-slider.css.map */

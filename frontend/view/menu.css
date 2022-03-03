@@ -1,0 +1,35 @@
+.bg-dark {
+  background-color: #FF6565 !important;
+}
+
+.nav-link {
+  color: #FFFFFF !important;
+  margin-rigth: 40px;
+  margin-left: 40px;
+  font-size: 20px;
+  font-weight: bold !important;
+}
+
+.nav-link:hover {
+  color: #0068c9 !important;
+}
+
+.active {
+  color: #0068c9 !important;
+}
+
+.btn-create-order {
+  background-color: #FF2828 !important;
+  border-style: none;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+}
+
+.btn-create-order:active {
+  background-color: #FF2828 !important;
+}
+
+.btn-create-order:hover {
+  background-color: #A31818 !important;
+}
+/*# sourceMappingURL=menu.css.map */

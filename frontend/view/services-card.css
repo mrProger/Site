@@ -1,0 +1,26 @@
+.card {
+  display: inline-block !important;
+  width: 19rem !important;
+  height: 220px !important;
+}
+
+.card-img-top {
+  width: 100px;
+  height: 100px;
+}
+
+.btn-service-more {
+  background-color: #FF2828 !important;
+  border-style: none;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+}
+
+.btn-service-more:active {
+  background-color: #FF2828 !important;
+}
+
+.btn-service-more:hover {
+  background-color: #A31818 !important;
+}
+/*# sourceMappingURL=services-card.css.map */

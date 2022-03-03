@@ -1,0 +1,24 @@
+.admin-panel__quit-button__label {
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+  vertical-align: -8px;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+}
+
+.admin-panel__quit-button {
+  text-decoration: none;
+}
+
+.admin-panel__quit-button > img {
+  width: 35px;
+  height: 35px;
+}
+
+.admin-panel__quit-button:hover > .admin-panel__quit-button__label {
+  color: blue;
+  cursor: pointer;
+}
+/*# sourceMappingURL=admin-panel.css.map */

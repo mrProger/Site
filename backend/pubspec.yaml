@@ -1,0 +1,11 @@
+name: 'TestAPI'
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  http: ^0.12.2
+  mailer: ^3.3.0
+  moor: ^3.2.0
+  rpc: ^0.6.2
+  sqlite3: ^1.5.1

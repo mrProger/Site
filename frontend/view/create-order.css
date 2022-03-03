@@ -1,0 +1,9 @@
+.service-type-label, .name-label, .telephone-number-label, .email-label {
+  font-size: 20px;
+}
+
+.service-type, .name-input, .telephone-number-input, .email-input {
+  font-size: 20px;
+  width: 500px;
+}
+/*# sourceMappingURL=create-order.css.map */

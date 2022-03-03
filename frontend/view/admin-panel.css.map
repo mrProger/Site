@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAUA,AAAA,gCAAgC,CAAC;EAC/B,SAAS,EAXa,IAAI;EAY1B,WAAW,EAXa,IAAI;EAY5B,eAAe,EAXa,IAAI;EAYhC,KAAK,EAXkB,KAAK;EAY5B,cAAc,EAPoB,IAAG;EAQrC,UAAU,EAXa,KAAK;CAWU;;AAExC,AAAA,yBAAyB,CAAC;EACxB,eAAe,EAjBa,IAAI;CAiBgB;;AAElD,AAAA,yBAAyB,GAAG,GAAG,CAAC;EAC9B,KAAK,EAfgB,IAAI;EAgBzB,MAAM,EAhBe,IAAI;CAgBO;;AAElC,AAAA,yBAAyB,AAAA,MAAM,GAAG,gCAAgC,CAAC;EACjE,KAAK,EAtBwB,IAAI;EAuBjC,MAAM,EArBa,OAAO;CAqBI",
+    "sources": [
+        "admin-panel.sass"
+    ],
+    "names": [],
+    "file": "admin-panel.css"
+}
